@@ -59,7 +59,7 @@ export default function Footer() {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="www.linkedin.com/in/parth-gourshettiwar"
+                href="https://www.linkedin.com/in/parth-gourshettiwar"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-slate-200 dark:bg-slate-700 rounded-lg flex items-center justify-center text-slate-600 dark:text-slate-400 hover:bg-blue-500 hover:text-white transition-colors"
