@@ -51,7 +51,7 @@ export default function Footer() {
             <h4 className="text-slate-900 dark:text-white mb-4">Connect</h4>
             <div className="flex gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/parth-gourshettiwar/NextNode.git"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-slate-200 dark:bg-slate-700 rounded-lg flex items-center justify-center text-slate-600 dark:text-slate-400 hover:bg-blue-500 hover:text-white transition-colors"
