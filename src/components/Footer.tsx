@@ -67,7 +67,7 @@ export default function Footer() {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="mailto:contact@nextnode.com"
+                href="mailto:kydigholkar@pict.edu"
                 className="w-10 h-10 bg-slate-200 dark:bg-slate-700 rounded-lg flex items-center justify-center text-slate-600 dark:text-slate-400 hover:bg-blue-500 hover:text-white transition-colors"
               >
                 <Mail className="w-5 h-5" />
